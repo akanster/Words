@@ -1,0 +1,26 @@
+CSS Transitions - https://developer.mozilla.org/en/CSS/CSS_transitions
+-webkit-transition - http://www.webkit.org/blog/138/css-animation/
+Look for transitions that work in webkit.
+
+make animation.  Ken Burns sliding effect?
+set timeout/change based on # of characters.
+
+Version 1.1
+ - Added more quotes.
+ - Randomized quotes array before randomly selection
+ - Made fonts in help screen larger
+ - Added framework_config.json 
+ - Reworded description on help screen
+
+Version 1.0
+ - Original release
+
+
+TODO:
+Randomize array of results, loop thru infinitely and display all (at the end, randomize again?).
+Make email address clickable in help view.  Launch email app when tapped, or make a button
+Detect Pre 3 and adjust font sizes
+cross launch exhibition mode from help view.
+On first run after install, Cufon font is not used.  When quote cycles, cufon works as normal.
+
+DONE! Check with parent pane.  If exhibition view is not visible, don't not start quotes!!

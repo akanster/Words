@@ -1,0 +1,20 @@
+Words
+-----------------
+
+Words for the TouchPad is an Exhibition mode app that displays fun quotes by famous people. Set it, sit back and enjoy insightful quotes and some famous insults.
+
+https://developer.palm.com/appredirect/?packageid=com.akanster.words
+
+
+
+CHANGELOG
+-----------------
+Version 1.1
+ - Added more quotes.
+ - Randomized quotes array before randomly selection
+ - Made fonts in help screen larger
+ - Added framework_config.json 
+ - Reworded description on help screen
+
+Version 1.0
+ - Original release
