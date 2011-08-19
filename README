@@ -15,7 +15,7 @@ CHANGELOG
 -----------------
 Version 1.1
  - Added more quotes.
- - Randomized quotes array before randomly selection
+ - Randomized quotes array before random selection
  - Made fonts in help screen larger
  - Added framework_config.json 
  - Reworded description on help screen
