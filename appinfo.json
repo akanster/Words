@@ -1,11 +1,12 @@
 {
 	"id": "com.akanster.words",
-	"version": "1.1.0",
+	"version": "2.1.0",
 	"vendor": "Akanster",
 	"type": "web",
 	"main": "index.html",
 	"title": "Words",
 	"icon": "icon.png",
 	"dockMode": true,
+	"noWindow": true,
 	"uiRevision":2
 }
